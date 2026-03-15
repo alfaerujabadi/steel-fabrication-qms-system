@@ -1,0 +1,1 @@
+This folder contains Standard Operating Procedures (SOP) controlling fabrication processes including material inspection, welding control, dimensional inspection, surface preparation, galvanizing inspection, and final quality release.
