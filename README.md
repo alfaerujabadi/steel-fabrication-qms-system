@@ -1,22 +1,109 @@
 # Steel Fabrication Quality Management System
 
-This repository presents a complete **Quality Management System (QMS)** developed for steel fabrication, welding, and galvanizing workshop operations.
+This repository presents a complete **Quality Management System (QMS)** developed for steel fabrication workshop operations.
 
-The system was developed for **PT Bagja Mulia Technologies** to establish a structured operational quality framework, improve traceability, and standardize inspection documentation across fabrication processes.
+The system was developed for **PT Bagja Mulia Technologies** to standardize production processes, improve traceability, and implement structured quality control procedures.
 
 ---
 
-# Project Scope
+# Project Overview
 
-The developed system controls the entire fabrication workflow including:
+The developed system controls the full fabrication workflow including:
 
 - Material Receiving
 - Incoming Material Inspection
 - Material Traceability
-- Cutting & Fit-Up
+- Cutting and Fit-Up
 - Welding Operations
 - Dimensional Inspection
 - Surface Preparation
+- Hot-Dip Galvanizing
+- Galvanizing Inspection
+- Final Quality Release
+
+---
+
+# Quality Management System Architecture
+
+The QMS follows a structured documentation hierarchy:
+
+Level 1  
+Quality Manual
+
+Level 2  
+Standard Operating Procedures
+
+Level 3  
+Quality Control Inspection Forms
+
+Level 4  
+Registers and Control Logs
+
+---
+
+# Project Portfolio
+
+The full documentation describing this system development can be found here:
+
+**Portfolio Document**
+
+`portfolio/QMS_Development_Portfolio_PT_Bagja_Mulia_Technologies.pdf`
+
+---
+
+# System Components
+
+### Quality Manual
+Defines the quality policy, management structure, and operational scope.
+
+### Standard Operating Procedures
+Operational procedures controlling fabrication processes.
+
+### QC Inspection Forms
+Inspection documents used to record verification activities.
+
+### Welder Qualification System
+Ensures welding operations are performed by certified welders.
+
+### Equipment Calibration Management
+Controls inspection equipment calibration and validity.
+
+---
+
+# Fabrication Quality Control Workflow
+
+Material Receiving  
+↓  
+Incoming Inspection  
+↓  
+Material Traceability  
+↓  
+Cutting  
+↓  
+Fit-Up Inspection  
+↓  
+Welding  
+↓  
+Dimensional Inspection  
+↓  
+Surface Preparation  
+↓  
+Galvanizing  
+↓  
+Final QC Release
+
+---
+
+# Professional Competencies Demonstrated
+
+This project demonstrates expertise in:
+
+- Quality Management System Development
+- Industrial Process Documentation
+- Welding Quality Control Systems
+- Inspection Workflow Design
+- Material Traceability Systems
+- Equipment Calibration Management- Surface Preparation
 - Hot-Dip Galvanizing
 - Final Quality Inspection
 - Product Release
