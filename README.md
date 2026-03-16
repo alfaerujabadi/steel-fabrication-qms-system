@@ -2,7 +2,7 @@
 
 This repository presents a complete **Quality Management System (QMS)** developed for steel fabrication workshop operations.
 
-The system was developed for **PT Bagja Mulia Technologies** to standardize production processes, improve traceability, and implement structured quality control procedures.
+The system was developed for **PT Bagja Mulia Technologies** to standardize fabrication processes, improve quality traceability, and implement structured inspection documentation.
 
 ---
 
@@ -19,19 +19,21 @@ The developed system controls the full fabrication workflow including:
 - Surface Preparation
 - Hot-Dip Galvanizing
 - Galvanizing Inspection
-- Final Quality Release
+- Final Quality Control Release
+
+This system integrates operational procedures, inspection checkpoints, and documentation control to ensure fabrication quality and operational consistency.
 
 ---
 
 # Quality Management System Architecture
 
-The QMS follows a structured documentation hierarchy:
+The QMS follows a structured documentation hierarchy used in industrial quality management systems.
 
 Level 1  
 Quality Manual
 
 Level 2  
-Standard Operating Procedures
+Standard Operating Procedures (SOP)
 
 Level 3  
 Quality Control Inspection Forms
@@ -39,16 +41,131 @@ Quality Control Inspection Forms
 Level 4  
 Registers and Control Logs
 
+These document layers ensure operational consistency and full traceability across fabrication activities.
+
+---
+
+# System Architecture & Workflow Diagram
+
+The following diagram illustrates the structure of the Quality Management System and the fabrication quality control workflow.
+
+![QMS Architecture](diagrams/qms-architecture-workflow.png)
+
 ---
 
 # Project Portfolio
 
-The full documentation describing this system development can be found here:
+The full documentation explaining the development of this Quality Management System can be found here:
 
-**Portfolio Document**
+**Project Portfolio**
 
 `portfolio/QMS_Development_Portfolio_PT_Bagja_Mulia_Technologies.pdf`
 
+---
+
+# System Components
+
+## Quality Manual
+
+Defines the quality policy, system scope, organizational structure, and quality management framework for fabrication operations.
+
+---
+
+## Standard Operating Procedures
+
+Operational procedures were developed to control key fabrication processes including:
+
+- Incoming Material Inspection
+- Cutting and Fit-Up Control
+- Welding Process Control
+- Dimensional Inspection
+- Surface Preparation
+- Galvanizing Inspection
+- Final QC Release
+
+---
+
+## Quality Control Inspection Forms
+
+Inspection documentation was developed to record verification activities across production stages.
+
+Examples include:
+
+- Material Receiving Report
+- Incoming Inspection Checklist
+- Mill Certificate Verification
+- Material Traceability Log
+- Fit-Up Inspection Report
+- Welding Inspection Report
+- Dimensional Inspection Report
+- Surface Preparation Checklist
+- Galvanizing Thickness Report
+- Final Quality Release Certificate
+
+---
+
+## Welder Qualification System
+
+The system includes a welder qualification register to ensure welding activities are performed by certified personnel.
+
+Each weld can be traced to:
+
+- Welder identification number
+- Welding process
+- Welding position qualification
+- Certification validity
+
+---
+
+## Equipment Calibration Management
+
+Inspection equipment is controlled through:
+
+- Master Equipment Register
+- Calibration Log
+
+This ensures that inspection measurements are performed using calibrated instruments.
+
+---
+
+# Fabrication Quality Control Workflow
+
+Material Receiving  
+↓  
+Incoming Inspection  
+↓  
+Material Traceability  
+↓  
+Cutting  
+↓  
+Fit-Up Inspection  
+↓  
+Welding  
+↓  
+Dimensional Inspection  
+↓  
+Surface Preparation  
+↓  
+Hot-Dip Galvanizing  
+↓  
+Galvanizing Inspection  
+↓  
+Final QC Release
+
+---
+
+# Professional Competencies Demonstrated
+
+This project demonstrates professional expertise in:
+
+- Quality Management System Development
+- Industrial Process Documentation
+- Welding Quality Control Systems
+- Inspection Workflow Design
+- Material Traceability Systems
+- Equipment Calibration Management
+
+These competencies support the development of structured quality systems for fabrication and manufacturing environments.
 ---
 
 # System Components
