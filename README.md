@@ -377,3 +377,15 @@ This repository contains the full documentation system including:
 - Equipment Calibration Registers
 
 These documents collectively form the operational Quality Management System used in fabrication workshop operations.
+
+## Repository Structure
+
+steel-fabrication-qms-system
+
+├── diagrams – QMS architecture and workflow diagrams  
+├── portfolio – Project portfolio documentation  
+├── quality-manual – Quality management system manual  
+├── procedures – Operational procedures  
+├── qc-forms – Quality inspection documentation  
+├── welding – Welder qualification documentation  
+├── registers – Equipment and calibration registers
