@@ -1,3 +1,9 @@
+![Quality Management System](https://img.shields.io/badge/System-Quality%20Management%20System-blue)
+
+![Industry](https://img.shields.io/badge/Industry-Steel%20Fabrication-orange)
+
+![Documentation](https://img.shields.io/badge/Documentation-QA%2FQC%20System-green)
+
 # Steel Fabrication Quality Management System
 
 This repository presents a complete **Quality Management System (QMS)** developed for steel fabrication workshop operations.
