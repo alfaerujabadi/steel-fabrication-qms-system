@@ -29,6 +29,35 @@ This system integrates operational procedures, inspection checkpoints, and docum
 
 ---
 
+## Project Case Study
+
+### Background
+
+Steel fabrication workshops require structured quality control to ensure that materials, welding operations, and surface treatment processes meet engineering specifications.
+
+Without a documented Quality Management System, fabrication operations may face issues such as inconsistent inspection procedures, lack of traceability, and difficulties during client or regulatory audits.
+
+### Solution Implemented
+
+A complete **Quality Management System (QMS)** was developed to control the fabrication workflow through:
+
+- Standardized operational procedures
+- Structured inspection checkpoints
+- Welder qualification management
+- Equipment calibration control
+- Documented inspection records
+
+### Results
+
+The implemented system provides:
+
+- Full traceability of materials and welding activities  
+- Standardized inspection workflow  
+- Improved documentation control  
+- Better readiness for quality audits and client inspections  
+
+---
+
 # System Architecture & Workflow Diagram
 
 The following diagram illustrates the structure of the Quality Management System and the fabrication quality control workflow.
@@ -189,3 +218,9 @@ steel-fabrication-qms-system
 ├── welding – Welder qualification documentation
 └── registers – Equipment and calibration registers
 ```
+
+---
+
+# License
+
+This project documentation is released under the MIT License.
